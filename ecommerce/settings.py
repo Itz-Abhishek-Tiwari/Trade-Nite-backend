@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "custom_auth",
     "rest_framework",
     "rest_framework_simplejwt",
+    "store",
 ]
 
 # Rest framework JWT token authentication
